@@ -1,0 +1,14 @@
+bin/
+obj/
+packages/
+
+*.exe
+*.dll
+*.h
+*.pdb
+FodyWeavers.xsd
+
+.vs/
+.vscode/
+*.user
+*.suo
